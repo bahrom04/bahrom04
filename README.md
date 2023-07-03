@@ -1,4 +1,4 @@
-### Bahrom Bek
+# Bahrom Bek
 
 ## About me
 
