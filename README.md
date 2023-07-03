@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Bahromoken/Bahromoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://github.com/Bahromoken/Bahromoken/assets/116780481/a0a26224-fabf-4060-a833-ae487ea49736)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Bahromoken?cardType=github&theme=dracula&preferLogin=false)](https://git.io/awesome-stats-card)
