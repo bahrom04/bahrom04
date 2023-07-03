@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Bahrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahromoken&show_icons=true&theme=chartreuse-dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahromoken&show=reviews)
