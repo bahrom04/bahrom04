@@ -9,5 +9,5 @@
 
 
 
-![Bahrom's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahromoken&show_icons=true&theme=chartreuse-dark)
+![Bahrom oken's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahromoken&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahromoken&layout=compact&theme=chartreuse-dark)
