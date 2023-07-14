@@ -10,4 +10,4 @@
 
 
 ![Bahrom oken's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahromoken&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahromoken&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahromoken&layout=compact&theme=dark)
