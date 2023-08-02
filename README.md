@@ -2,10 +2,10 @@
 
 ## About me:
 
-- 🇺🇿 I'm Uzkek from Uzbekistan, Tashkent
+- 🇺🇿 Uzbek from Uzbekistan, Tashkent
 - 👨 19 y.o Student of IDU University in Tashkent
-- 🔭 I’m currently working on self-projects also open to work
-- 🌱 I’m currently learning Flask and aiogram
+- 🔭 Currently working on self-projects also open to work
+- 🌱 Currently learning Flask and aiogram
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
 
