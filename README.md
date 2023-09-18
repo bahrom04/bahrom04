@@ -1,4 +1,3 @@
-# Bahrom Bek
 
 ## About me:
 
