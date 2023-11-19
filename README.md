@@ -1,5 +1,5 @@
 
-## About me:
+## About:
 
 - 🇺🇿 Uzbek from Uzbekistan, Tashkent
 - 👨 19 y.o Student of IDU in Tashkent
