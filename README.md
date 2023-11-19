@@ -2,9 +2,9 @@
 ## About me:
 
 - 🇺🇿 Uzbek from Uzbekistan, Tashkent
-- 👨 19 y.o Student of IDU University in Tashkent
+- 👨 19 y.o Student of IDU in Tashkent
 - 🔭 Currently working on self-projects also open to work
-- 🌱 Currently learning Django and DRF
+- 🌱 Currently learning Django
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
 
