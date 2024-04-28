@@ -1,6 +1,6 @@
 
 - 🇺🇿 Uzbek from Uzbekistan, Tashkent
-- 👨 19 y.o. Student of IDU
+- 👨 Student of IDU
 - 🔭 Currently working on self-projects also open to work
 - 🌱 Currently learning Django
 
