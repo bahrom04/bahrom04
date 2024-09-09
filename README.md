@@ -1,6 +1,6 @@
 
 - 🇺🇿 Uzbek from Uzbekistan, Tashkent
-- 👨 Student of IDU
+- 👨 Student of idu.uz
 - 🔭 Currently working on self-projects also open to work
 - 🌱 Currently learning Django
 
