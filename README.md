@@ -1,7 +1,7 @@
 
 - 🇺🇿 Uzbek from Uzbekistan, Tashkent
 - 👨 Student of idu.uz
-- 🔭 Currently working on self-projects also open to work
+- 🔭 Currently working on self-projects /* also open to work */
 - 🌱 Currently learning Django
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
