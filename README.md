@@ -1,7 +1,7 @@
 
-- 🇺🇿 Uzbek from Uzbekistan, Tashkent
-- 🔭 Currently working on self-projects /* also open to work */
-- 🌱 Currently learning Django
+- 🇺🇿
+- 🔭 Currently working
+- 🌱 Currently learning
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
 
