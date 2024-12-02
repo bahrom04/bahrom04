@@ -1,7 +1,7 @@
 
 - 🇺🇿
-- 🔭 Currently working
-- 🌱 Currently learning
+- 🔭 Currently 
+- 🌱 Currently 
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
 
