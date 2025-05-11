@@ -1,7 +1,5 @@
 
 - 🇺🇿
-- 🔭 Currently 
-- 🌱 Currently 
 
 ![](https://komarev.com/ghpvc/?username=bahromoken)
 
