@@ -7,17 +7,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahrom04&layout=compact&theme=dark)
 
 
-<h1 align="center">Domirando</h1>
-<p align="center">
+<h1 align="center">bahrom04</h1>
+<!-- <p align="center">
   <img src="./img/wallpaper.jpg" alt="">
-</p>
+</p> -->
 
 <div>
-    - 🔭 Currently working as a freelancer <br>
-    - 🌱 Currently learning Rust (planning: Data Vizualization) <br>
+    - 🔭 Currently working as a open-source developer <br>
     - 💬 Feel free to give any question related to IT <br>
-    - 👯 Looking to collaborate on team of Linux, NextJS, ReactJS, ... <br>
-    - ⚡️ Mission: By every step doing and wanna improve and develop... 
+    - ⚡️ Mission: Learn, Earn & Change the world
 </div>
 
 ## 🔨 Languages and Tools:
