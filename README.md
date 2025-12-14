@@ -10,8 +10,8 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahrom04&layout=compact&theme=dark) -->
 
 <div>
-    - 🔭 Currently working as a open-source developer <br>
-    - 💬 Feel free to give any question related to IT <br>
+    - 🔭 Currently working as an open-source developer <br>
+    <!-- - 💬 Feel free to give any question related to IT <br> -->
     - ⚡️ Mission: Learn, Earn & Change the world
 </div>
 
