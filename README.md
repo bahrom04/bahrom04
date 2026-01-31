@@ -11,7 +11,7 @@
 
 <div>
     - 🔭 Currently working as an open-source developer <br>
-    <!-- - 💬 Feel free to give any question related to IT <br> -->
+    - 👷‍♂️ My testing polygon before itʻs get released<br>
     - ⚡️ Mission: Learn, Earn & Change the world
 </div>
 
