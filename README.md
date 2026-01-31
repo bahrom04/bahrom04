@@ -11,7 +11,7 @@
 
 <div>
     - 🔭 Currently working as an open-source developer <br>
-    - 👷‍♂️ My testing polygon before itʻs get released<br>
+    - 👷‍♂️ My testing polygon before itʻs get released: https://github.com/bahrom04-lab<br>
     - ⚡️ Mission: Learn, Earn & Change the world
 </div>
 
