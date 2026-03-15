@@ -21,7 +21,7 @@
   <a href="https://bahrom04.uz">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./assets/footer_v1.png">
-        <img alt="Welcome Image" src="./assets/footer_v1.png">
+        <img alt="Welcome Image" src="./assets/2026/footer_v1.png">
       </picture>
   </a>
 </p>
